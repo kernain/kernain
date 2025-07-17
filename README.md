@@ -1,4 +1,3 @@
-![Profile Banner](image1)
 
 # Hi, I'm Syed Karnain Kamal 👋
 

@@ -1,36 +1,60 @@
 
 # Hi, I'm Syed Karnain Kamal 👋
 
-Frontend Developer passionate about crafting intuitive web experiences and exploring new tech frontiers. With 3+ years of hands-on experience, I love turning ideas into interactive, scalable products.
+Senior Frontend Engineer passionate about transforming designs into interactive web experiences. With 3+ years of hands-on experience, I specialize in building scalable, high-performance frontend architectures and mentoring aspiring developers.
 
-## 🚀 About Me
-- **Profession:** Frontend Developer @ Aerial Teknology, Karachi
-- **Experience:** 3+ years building modern web applications
-- **Education:** Self-taught developer, FreeCodeCamp Certification
-- **Interests:** Anime, Volleyball, Learning about Generative AI
+---
 
-## 🛠️ Skills
+## 🚀 Professional Summary
+- Senior Frontend Developer experienced in React, Next.js, Vue.js, and Tailwind CSS
+- Led frontend teams and contributed to scalable, maintainable projects
+- Taught and mentored web development students and junior developers
+- Delivered freelance solutions for global clients
+
+## 🧑‍💻 Experience Highlights
+
+- **Front End Lead – Bizaffix (Part-time, Remote)**
+  - Leading scalable, maintainable, and high-performance frontend architectures with React, Next.js, Tailwind CSS, and more.
+
+- **Frontend Developer – Aerial Teknology (Full-time, Karachi)**
+  - Building modern web applications with JavaScript, HTML, and a broad set of frontend technologies.
+
+- **Web Development Instructor – Mojo Solutions & Services MSS LLC (Part-time, On-site)**
+  - Teaching modern web development, including HTML, CSS, JavaScript, React, and Next.js.
+
+- **Assistant Instructor – Expertizo (Part-time, On-site)**
+  - Delivered comprehensive web development courses, focusing on both front-end and back-end technologies.
+
+- **Freelance Web Developer – Freelancer.com (Remote)**
+  - Developed and delivered projects for clients worldwide.
+
+## 🛠️ Skills & Tech Stack
 - JavaScript (ES6+)
-- React.js
+- React.js, Next.js
 - Vue.js
-- HTML & CSS
-- Responsive Design
+- HTML5, CSS3, Tailwind CSS
+- Responsive & Scalable Frontend Design
 
-## 🌟 Projects
-- Most of my work involves private repositories and confidential client projects.
-- Open to showcasing select public work on request!
+## 🌱 Interests & Learning
+- Anime & Volleyball
+- Favorite Tech: React.js
+- Exploring Generative AI
 
 ## 🏆 Achievements
 - FreeCodeCamp Certification
+- Led and mentored web development teams and students
 
-## 🤝 Let’s Connect & Collaborate!
-- 💼 Available for freelance and collaborative opportunities
-- 📫 Email: hasansyed700@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/syed-karnain-kamal/)
+## 👨‍💻 Work Modes
+- Experienced in both remote and on-site roles
+- Adaptable to diverse team and client environments
 
-## 💡 Favorite Tech
-- React.js (always exploring new features!)
-- Excited to dive into GenAI
+## 🤝 Collaboration
+- Open to freelance and collaborative opportunities
+- Happy to mentor junior developers and students
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/syed-karnain-kamal/)
+- Email: hasansyed700@gmail.com
 
 ---
 
